@@ -1,2 +1,3 @@
-Simple Black Jack game in react & mobx
-# bj21
+Black Jack game in react & mobx
+
+demo: https://bj21.herokuapp.com/
