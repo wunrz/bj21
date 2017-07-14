@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.App {
+  position: absolute;
+  top: 20px !important;
+  height: 600px;
+  background: black;
+  width: 500px;
+  padding: 0px !important;
+}
+.COMcards {
+  background: #3d8c31;
+  height: 225px;
+  padding: 0px;
+  margin: 0px;
+}
+.ScoreField{
+  height: 50px;
+  width: 100%;
+}
+.ScoreField p {
+  display: inline-block;
+  margin: 5px;
+  margin-left: 30px;
+  margin-top: 12px;
+  color: white;
+
+}
+.USRcards{
+  background: #3d8c31;
+  height: 225px;
+  padding: 0px;
+  margin: 0px;
+}
+.btn {
+  height: 100px !important;
+  border-radius: 0px 0px 0px 0px !important;
+  font-size: 25px;
+  font-family:  "Courier New", Courier, monospace;
+}
+p {
+font-family:  "Courier New", Courier, monospace;
+}
+.card {
+  margin-left: 8px;
+  margin-top: 45px;
+  height: 120px;
+  width: 80px;
+  background: white;
+  box-shadow: 10px 10px 5px black;
+}
